@@ -70,3 +70,4 @@ This machine learning project uses the famous Titanic dataset to predict the sur
 - Email: amr.mohammed319@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amr-mohamed319/)
 - GitHub: [GitHub Profile](https://github.com/AmrMohamed319)
+- Portfolio: https://amrmohamed319.github.io/AmrMohamed.github.io/
